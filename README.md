@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ntomar55 Nikita Tomar
-- 👀 I’m interested in Bioinformatics and data science to curate and visualize biological data extracted from biological processes 
+- 👀 I am interested in Bioinformatics and data science to curate and visualize biological data extracted from biological processes 
    like Next Generation Sequencing (Illumina), Microarray analysis, protein - protein interaction etc. 
-- 🌱 I’m currently learning coding in Python, R and SQL. I am a second semester graduate student in Bioinformatics at Boston University.
-- 💞️ I’m looking to collaborate on any biological data related projects.
+- 🌱 I currently code in Python, R and SQL. I am a Bioinformatician at CPMG,NY.
+- 💞️ I would love to collaborate on any biological data related projects.
 - 📫 I can be reached at ntomar@bu.edu.
 
 <!---
